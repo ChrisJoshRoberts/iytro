@@ -1,0 +1,6 @@
+.has-phone-number {
+  display: flex;
+}
+.no-phone-number {
+  display: none;
+}
