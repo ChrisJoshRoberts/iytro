@@ -1,0 +1,21 @@
+.filter {
+  display: flex;
+  align-items: center;
+  background-color: #2E3240;
+  color: white;
+}
+.filter-links-container {
+  display: flex;
+  margin-left: 20px;
+}
+.filter-link {
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+}
+.logo-list {
+  display: flex;
+}
+.empty {
+  display: none;
+}
