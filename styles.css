@@ -320,7 +320,13 @@ word-wrap: break-word
 
 @media screen and (max-width: 1292px){
   .title-deco {
-    width:26em;
+    width:21em;
+  }
+  .dark-title {
+    font-size: 32px;
+  }
+  .yellow-title {
+    font-size: 28px;
   }
 }
 @media  screen and (max-width: 1024px){
@@ -328,7 +334,7 @@ word-wrap: break-word
     flex-direction: column;
   }
   .content-container {
-    padding: 0px;
+    padding: 30px;
   }
   .bodycopy {
     margin-top: 80px;
@@ -355,7 +361,7 @@ word-wrap: break-word
   display: none;
   }
   .content-container {
-    padding: 0px;
+    padding: px;
   }
   .bodycopy {
     margin-top: 0px;
